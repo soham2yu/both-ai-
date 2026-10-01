@@ -1,0 +1,13 @@
+pillow
+pytesseract
+numpy
+scikit-learn
+requests
+pymupdf
+python-docx
+spacy
+fastapi
+uvicorn
+python-multipart
+# After installing requirements, also run:
+#   python3 -m spacy download en_core_web_sm
